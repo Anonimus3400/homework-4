@@ -1,0 +1,14 @@
+.bg-box {
+    margin: 10% auto 75%;
+    height: 500px;
+    width: 1000px;
+    background: url('../img/pole-zelen-trava-dom-derevya.jpg') center / 100px repeat-x,
+                      url('../img/lamp-png-0.png'),
+                      url('../img/grass-png-images-pictures-transparent-28.png'),
+                      url('../img/Ёжик.png'),
+                      url('../img/58eb07b830eab15b56162788.png');
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+    background-color: green;
+    background-size: 450px 300px, 35px 50px, 250px 130px, 30px 30px, 30px 30px;
+    background-position: center, top, bottom, left, right;
+}
